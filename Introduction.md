@@ -1,5 +1,16 @@
 # Guide Document of Gecko Inside #8
 
+## Congratsrations!
+https://blog.mozilla.org/community/2016/08/01/firefox-48-new-contributors/
+
+| User | Resolve Bugs |
+|------|--------------|
+| Rob | https://bugzilla.mozilla.org/show_bug.cgi?id=1244640|
+| tyamaguchi | https://bugzilla.mozilla.org/show_bug.cgi?id=1257067 <br/>https://bugzilla.mozilla.org/show_bug.cgi?id=1259675 |
+| Arata Furukawa | https://bugzilla.mozilla.org/show_bug.cgi?id=1258820 <br/> https://bugzilla.mozilla.org/show_bug.cgi?id=1259655 <br/> https://bugzilla.mozilla.org/show_bug.cgi?id=1259679 |
+| Ryo Kato | https://bugzilla.mozilla.org/show_bug.cgi?id=1244591 <br/> https://bugzilla.mozilla.org/show_bug.cgi?id=1244642 <br/> https://bugzilla.mozilla.org/show_bug.cgi?id=1255682  <br/> https://bugzilla.mozilla.org/show_bug.cgi?id=1260353 <br/> https://bugzilla.mozilla.org/show_bug.cgi?id=1261561|
+| emi suzuki | https://bugzilla.mozilla.org/show_bug.cgi?id=1259883|
+
 ## Link
 
 | Site  | Link/Description |
